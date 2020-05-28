@@ -7,7 +7,7 @@ client.on('ready', () => {
 
 client.on('message', message => {
     if (message.content === 'ping') {
-    	message.reply('pong');
+    	message('pong');
   	}
 });
 
@@ -15,7 +15,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === '@Liquid Chris') {
-    	message.reply('She is the best mod!');
+    	message('She is the best mod!');
   	}
 });
 
@@ -23,199 +23,1068 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
+  	}
+});
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
   	}
 });
 
 client.on('message', message => {
     if (message.content === 'secret!raid') {
-    	message.reply('hi');
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
+  	}
+});
+
+client.on('message', message => {
+    if (message.content === 'secret!raid') {
+    	message('Someone has set of a raid!');
   	}
 });
 
