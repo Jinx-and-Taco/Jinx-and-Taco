@@ -14,7 +14,7 @@ client.on('message', message => {
 // THIS IS THE @Liquid Chris COMMAND
 
 client.on('message', message => {
-    if (message.content === '@Liquid Chris') {
+    if (message.content === 'Liquid Chris') {
     	message('She is the best mod!');
   	}
 });
