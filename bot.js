@@ -15,7 +15,7 @@ client.on('message', message => {
 
 client.on('message', message => {
     if (message.content === 'Liquid Chris') {
-    	message('She is the best mod!');
+    	message.text('She is the best mod!');
   	}
 });
 
