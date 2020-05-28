@@ -31,8 +31,7 @@ client.on('message', message => {
      
       .setColor(0xff0000)
       
-      .setDescription('- !Liquid Chris
-                       - MORE COMING SOON');
+      .setDescription('- !Liquid Chris');
   
     message.channel.send(embed);
   }
