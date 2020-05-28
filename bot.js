@@ -23,7 +23,7 @@ client.on('message', message => {
 
 client.on('message', message => {
 
-  if (message.content === '!help') {
+  if (message.content === 'jat!help') {
    
     const embed = new MessageEmbed()
       
